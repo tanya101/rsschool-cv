@@ -1,5 +1,5 @@
 # **Tatiana Spiridonova** 
-![photo](/img/me2019.jpg)
+![photo](https://sun9-18.userapi.com/s/v1/if1/F8srK9-upWw2ocNviMJhRO6XeSzkSF2-0Te_jkC7vQC15UJuLiBrAtqS-byJxsI2pzUkgMdm.jpg?size=1080x1080&quality=96&type=album)
 
 ## **Contacts** 
 
