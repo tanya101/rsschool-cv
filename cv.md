@@ -1,5 +1,5 @@
 # **Tatiana Spiridonova** 
-![Alt-photo](/img/me2019.jpg "photo")
+![photo](/img/me2019.jpg)
 
 ## **Contacts** 
 
