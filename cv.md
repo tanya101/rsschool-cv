@@ -19,7 +19,7 @@ My work experience is far away from IT, except the one job where I tought adults
 
 ## **Education and courses** 
 
-I have two degrees in psychology and translating (translating human English).
+I have two degrees in psychology and translating (English).
 
 ## **Languages** 
 
