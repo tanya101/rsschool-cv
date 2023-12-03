@@ -9,9 +9,11 @@
 
 ## **About myself** 
 
-I always loved studying foreign languages, i.e. English, Spanish, French, and one day I thought what if I try one more - the one to talk to mashines. It's pretty interesting and has a lot of pleasant pros, especially the lack of misunderstanding, which exist in human relations. Today I'm at the very start, and hope to learn many useful information from this course.
+Hi, I'm Tanya, and that is my third start of this course. Previously I tried Stage#1 and Stage#0, but hadn't finished either. This time I am going to complete at least Stage#1, cause finally I have more free time and definately more motivation.
 
 ## **Code example**
+
+`const explode = s => s.split('').map(num => num.repeat(num)).join('');`
 
 ## **Work experience** 
 
@@ -20,8 +22,10 @@ My work experience is far away from IT, except the one job where I tought adults
 ## **Education and courses** 
 
 I have two degrees in psychology and translating (English).
+Half of Stage#0, which means base of HTML, CSS and JS.
+Also I studied algorithms by myself (e.g. 'Grokking Algorithms' book, learn.javascript.ru) and now can solve CodeWars katas up to 6 kyu.
 
 ## **Languages** 
 
-* English B1-B2
+* English B2
 * French A1
