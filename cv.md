@@ -9,7 +9,7 @@
 
 ## **About myself** 
 
-Hi, I'm Tanya, and that is my third start of this course. Previously I tried Stage#1 and Stage#0, but hadn't finished either. This time I am going to complete at least Stage#1, cause finally I have more free time and definately more motivation.
+Hi, I'm Tanya, and this is my third start of this course. Previously I tried Stage#1 and Stage#0, but hadn't finished either. This time I am going to complete at least Stage#1, cause finally I have more free time and definately more motivation.
 
 ## **Code example**
 
