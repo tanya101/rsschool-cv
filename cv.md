@@ -22,7 +22,9 @@ My work experience is far away from IT, except the one job where I tought adults
 ## **Education and courses** 
 
 I have two degrees in psychology and translating (English).
+
 Half of Stage#0, which means base of HTML, CSS and JS.
+
 Also I studied algorithms by myself (e.g. 'Grokking Algorithms' book, learn.javascript.ru) and now can solve CodeWars katas up to 6 kyu.
 
 ## **Languages** 
